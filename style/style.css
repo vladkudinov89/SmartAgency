@@ -250,11 +250,13 @@ box-shadow: -8px -17px 46px 21px rgba(227,227,227,1);
 	padding-bottom: 50px;
 }
 .button{
+
 	text-align: center;
 
 }
 
 .button input{
+	opacity: 1;
 	cursor: pointer;
 	background-color: #ff5c36;
 	color: #fff;
@@ -263,6 +265,15 @@ box-shadow: -8px -17px 46px 21px rgba(227,227,227,1);
 	border-radius: 20px;
 	font-size: 16px;
 	padding: 20px 0;
+}
+
+/*-ms-transform: translate(15px,40px);
+	-webkit-transform: translate(15px,40px);
+	-o-transform: translate(15px,40px);
+	-moz-transform: translate(15px,40px);
+	transform: translate(15px,40px);*/
+.button input:hover{
+	opacity: 0.7;
 }
 
 .send-img img{
@@ -274,70 +285,55 @@ box-shadow: -8px -17px 46px 21px rgba(227,227,227,1);
 
 .work-proc{
 	margin-top: 120px;	
-	margin-bottom: 155px;
+	margin-bottom: 100px;
 }
 
-.work-li{
-	position: relative;
+
+.work-proc-img ul{
+	margin-top: 50px;
 	display: -webkit-flex;
 	display: -moz-flex;
 	display: -ms-flex;
 	display: -o-flex;
 	display: flex;
-	-webkit-flex-direction: column;
-	-moz-flex-direction: column;
-	-ms-flex-direction: column;
-	-o-flex-direction: column;
-	flex-direction: column;
-	align-items: baseline;
-	
-}
-
-.but-work-proc{
-	
-	position: absolute;
-	bottom: -15px;
-	left: 36px;
-}
-
-.work-proc-img{
-	margin-top: 100px;
-}
-
-.work-proc-img ul{
-	display: -webkit-flex;
-	display: -moz-flex;
-	display: -ms-flex;
-	display: -o-flex;
-	display: flex;	
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
 	-webkit-flex-wrap: wrap;
 	-moz-flex-wrap: wrap;
 	-ms-flex-wrap: wrap;
 	-o-flex-wrap: wrap;
-	flex-wrap: wrap;		
+	flex-wrap: wrap;
+	justify-content: space-around;
 }
 
-.work-li{
-	display: -webkit-flex;
-	display: -moz-flex;
-	display: -ms-flex;
-	display: -o-flex;
-	display: flex;
-	justify-content: center;
-	margin-top: 30px;
+.work-proc-img ul li{
+	margin-bottom: 30px;
+	position: relative;
 }
 
-.work-li input{
-	color: #737373;
+.but-work-proc{
+	position: absolute;
+	bottom: -15px;
+	left: 30px;
 }
 
-.work-li input:hover{
+.but-work-proc input:hover{
 	color: #000;
+	background-color: #84f396;
+	-webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);	
+	 -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
 }
-
-
 
 .but-work-proc input{
+	color: #737373;
 	cursor: pointer;
 	padding: 15px 50px;
 	font-size: 16px;
@@ -479,10 +475,11 @@ box-shadow:         0px 1px 18px 0px rgba(50, 50, 50, 0.66);
 }
 
 .serv-text{
-		
+	
 }
 
 .serv-text-name{
+
 	font-size: 30px;
 	color: #676767;
 	text-align: center;	
@@ -493,8 +490,36 @@ box-shadow:         0px 1px 18px 0px rgba(50, 50, 50, 0.66);
 
 }
 
+.but-serv-text-name{
+	text-align: center;
+}
+.but-serv-text-name input:hover{
+	color: #000;
+	background-color: #84f396;
+	
+	 -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
 
+.but-serv-text-name input{
+	margin-top: 20px;
+	color: #737373;
+	cursor: pointer;
+	padding: 15px 50px;
+	font-size: 16px;
+	background-color: #fff;
+	border-radius: 15px;
+	font-weight: 400;
+-webkit-box-shadow: 0px 1px 18px 0px rgba(50, 50, 50, 0.66);
+-moz-box-shadow:    0px 1px 18px 0px rgba(50, 50, 50, 0.66);
+box-shadow:         0px 1px 18px 0px rgba(50, 50, 50, 0.66);
+}
 
+.serv-watch{
+	margin-top: 10px;
+}
 
 
 
@@ -514,7 +539,16 @@ box-shadow:         0px 1px 18px 0px rgba(50, 50, 50, 0.66);
 		width: 100%;
 	}
 
-		.serv-img ul{
+	  .work-proc-img ul{
+  	-webkit-flex-direction: column;
+  	-moz-flex-direction: column;
+  	-ms-flex-direction: column;
+  	-o-flex-direction: column;
+  	flex-direction: column;
+  	align-items: center;
+  	}
+
+	.serv-img ul{
 			display: -webkit-flex;
 			display: -moz-flex;
 			display: -ms-flex;
@@ -552,12 +586,13 @@ box-shadow:         0px 1px 18px 0px rgba(50, 50, 50, 0.66);
   .container-fluid{
   	width: 100%;
   }
+
+
 }
 
 
 
  @media only screen and (max-width: 1023px){
-
 
  }
 
