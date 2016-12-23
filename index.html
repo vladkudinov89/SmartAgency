@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SmartAgency</title>
+<link rel="stylesheet" type="text/css" href="style/flexboxgrid.css">
+<link rel="stylesheet" type="text/css" href="style/style.css">
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+		
+		$('.burg').click(function(){
+                $('.padding-left-body').toggleClass('pad-body-left');
+                $('.cbp-spmenu-right').toggleClass('cbp-spmenu-open');   
+                $('.top-menu').toggleClass('burg-right-margin');  
+				$('.burg span').toggleClass('burg-hover');
+				$('.opasity-b').toggleClass('open-b');
+                 
+            });	
+		
+        });
+		
+	</script>
+</head>
+
+<body class="padding-left-body">
+
+	<nav class="fixed-menu cbp-spmenu-right">
+		<div class="top-nav">
+			<div class="close-bg">
+			<span class="burg">
+				<a class="close" href="#">
+					
+				</a>
+			 
+			</span>
+			</div>
+				<h3>
+					Menu
+				</h3>
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">About Us</a></li>
+						<li><a href="#">Contact Us</a></li>
+						<li><a href="#">Blog</a></li>
+					</ul>
+				</div>
+	</nav>
+	<div class="close-left opasity-b"></div>
+
+
+<div class="container-fluid gray">
+
+	<div class="container">
+	<header>
+			<section class="top-head">
+
+				<div class="logo col-xs-3 col-sm-3 col-md-2">
+					<a href="#">
+						<img src="img/logo-top.png" alt="">
+					</a>
+				</div>
+
+				<div class="top-menu col-xs-2 col-sm-2 col-md-2">				
+						<button class="burg">
+						<span></span><span></span><span></span>
+						</button>	
+				</div>
+			</section>
+		</header>
+
+
+		<div class="text-top col-md-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
+			<p class="text-header">
+				<span>Smart</span> Agency Landign Page
+			</p>
+			<p class="text-bottom">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, fuga provident. 
+			Libero magni quibusdam labore ad iste saepe hic, maxime qui ipsum tempore beatae, volu tomi ptates doloremque rerum aspernatur dolorum at!
+			</p>
+		</div>
+
+		<div class="send-message">
+
+			<div class="send-cont col-md-4 col-sm-4 col-xs-12">
+				<p class="form-name-top">
+					<span>Send</span> A Message
+				</p>
+
+				<form>
+					<p class="form-name">
+						<input type="text" required placeholder="Your Name" id="name">
+					</p>
+
+					<p class="form-email">
+						<input type="email" required placeholder="Your Email" id="email">
+					</p>
+
+					<p class="form-textarea">
+						<input type="textarea" required placeholder="Your Message" id="textarea">
+					</p>	
+
+					<p class="button">
+						<input type="submit" name="submit" value="Send Message &#8594;">
+					</p>	
+
+				</form>
+			</div>
+
+			<div class="send-img col-md-7 col-sm-7 col-xs-12">
+				<img src="image/send-mes-img.gif" alt="">
+			</div>
+		</div>
+
+</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="work-proc">
+
+		<div class="work-proc-text col-md-12 col-sm-12 col-xs-12">
+			<p class="text-header">
+				<span>Working</span> Process
+			</p>
+			<p class="text-bottom">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, elit.
+			</p>
+		</div>
+
+		<div class="work-proc-img">
+
+			<ul>
+				<li class="work-li col-md-3 col-sm-6 col-xs-12">
+				<a href="#">
+					<img src="image/work-proc-1.png" alt="">
+					<p class="but-work-proc">
+						<input type="submit" name="submit" value="&plus;&#160;&#160;Know More">
+					</p>
+				</a>
+					
+				</li>
+
+				<li class="work-li col-md-3 col-sm-6 col-xs-12">
+				<a href="#">
+					<img src="image/work-proc-2.png" alt="">
+						<p class="but-work-proc">
+						<input type="submit" name="submit" value="&plus;&#160;&#160;Know More">
+					</p>
+				</a>
+				
+				</li>
+
+				<li class="work-li col-md-3 col-sm-6 col-xs-12">
+				<a href="#">
+					<img src="image/work-proc-3.png" alt="">
+					<p class="but-work-proc">
+						<input type="submit" name="submit" value="&plus;&#160;&#160;Know More">
+					</p>
+				</a>
+					
+				</li>
+
+				<li class="work-li col-md-3 col-sm-6 col-xs-12">
+				<a href="#">
+					<img src="image/work-proc-4.png" alt="">
+					<p class="but-work-proc">
+						<input type="submit" name="submit" value="&plus;&#160;&#160;Know More">
+					</p>	
+				</a>
+				
+				</li>
+			</ul>
+
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid gray-feature">
+	<div class="container">
+		
+		<div class="text-middle col-md-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
+			<p class="text-header">
+				<span>Featured</span> Works
+			</p>
+			<p class="text-bottom">
+			Lorem ipsum dolor sit amet consectetur adipisicing elit Maiores fuga provident Libero.
+			</p>
+		</div>
+		
+		<div class="feature-work">
+
+			<ul>
+				<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				
+					<a href="#">
+					<img src="image/feature-w1.jpg">
+				</a>
+				
+				
+				</li>
+
+				<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				<a href="#">
+					<img src="image/feature-w2.jpg">
+				</a>
+				</li>
+
+				<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				<a href="#">
+					<img src="image/feature-w3.jpg">
+				</a>
+				</li>
+					<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				<a href="#">
+					<img src="image/feature-w4.jpg">
+				</a>
+				</li>
+
+				<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				<a href="#">
+					<img src="image/feature-w5.jpg">
+				</a>
+				</li>
+
+				<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				<a href="#">
+					<img src="image/feature-w6.jpg">
+				</a>
+				</li>
+
+					<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				<a href="#">
+					<img src="image/feature-w7.jpg">
+				</a>
+				</li>
+
+				<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				<a href="#">
+					<img src="image/feature-w8.jpg">
+				</a>
+				</li>
+
+				<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+				<a href="#">
+					<img src="image/feature-w9.jpg">
+				</a>
+				</li>
+			</ul>
+
+		</div>
+
+	</div>
+</div>
+
+
+
+<div class="container">
+	<div class="servis-provider">
+
+		<div class="text-middle col-md-offset-2 col-md-8 col-md-offset-2 col-xs-12 col-sm-12">
+			<p class="text-header">
+				<span>Services</span> We Provide
+			</p>
+			<p class="text-bottom">
+			Lorem ipsum dolor sit amet consectetur adipisicing elit Maiores fuga provident Libero.
+			</p>
+		</div>
+
+		<div class="servis-content">
+			<div class="serv-img">
+				<ul>
+
+					<li class="col-xs-3 col-sm-1 col-md-1">
+					<a href="#">
+					<img src="image/ser-1-1.png">
+					</a>
+					</li>
+
+					<li class="col-xs-3 col-sm-1 col-md-1">
+					<a href="#">
+					<img src="image/ser-2-2.png">
+					</a>
+					</li>
+
+					<li class="col-xs-3 col-sm-1 col-md-1">
+					<a href="#">
+					<img src="image/ser-3-3.png">
+					</a>
+					</li>
+
+					<li class="col-xs-3 col-sm-1 col-md-1">
+					<a href="#">
+					<img src="image/ser-1-1.png">
+					</a>
+					</li>
+
+				</ul>
+			</div>
+
+			<div class="serv-text col-xs-12 col-sm-4 col-md-5 col-lg-4">
+				<h3 class="serv-text-name">
+					Modern App Design
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus earum totam ad sint error porro. Consectetur, sunt, aperiam. Magni rem optio distinctio illum consequuntur delectus nulla illo aperiam itaque cumque.
+				</p><br>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel officia vitae eveniet quam rem unde facilis.
+				</p><br>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+				</p>
+				<p class="">
+						<input type="submit" name="submit" value="&plus;&#160;&#160;Know More">
+					</p>
+			</div>
+
+			<div class="serv-watch col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				<a href="#">
+					<img src="image/ser-watch-1.png" alt="">
+				</a>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
