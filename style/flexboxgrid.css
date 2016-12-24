@@ -610,6 +610,7 @@
   }
 
   .col-md-1 {
+    // outline: 1px solid red;
     -webkit-flex-basis: 8.333%;
     -ms-flex-preferred-size: 8.333%;
     flex-basis: 8.333%;

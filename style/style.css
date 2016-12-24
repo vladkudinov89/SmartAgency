@@ -527,7 +527,7 @@ box-shadow:         0px 1px 18px 0px rgba(50, 50, 50, 0.66);
 }
 
 .personal{
-	padding-bottom: 300px;
+	padding-bottom: 150px;
 }
 
 .personal ul{
@@ -560,8 +560,6 @@ box-shadow:         0px 1px 18px 0px rgba(50, 50, 50, 0.66);
 
  .personal li .pers-db-hover{
 	display: none;	
-
-
 }
 
 .personal li:hover .pers-db-hover {	
@@ -581,7 +579,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00fff3f0', e
 	    transition:all 3s linear; */
 
 }
-
 
 .pers-stat {
 	display: -webkit-flex;
@@ -607,11 +604,6 @@ font-weight: 600;
 
 .pers-dolg-hover{
 	color: #ff724c;
-}
-
-
-.pers-soc{
-
 }
 
 .pers-soc a{
@@ -687,8 +679,7 @@ font-weight: 600;
 
 .wrap {	
 	width: 150px;	
-	background: #817f7e;
-	
+	background: #817f7e;	
 }
 
 .prog-bar, .prog-bar-2, .prog-bar-3 {
@@ -716,8 +707,7 @@ font-weight: 600;
 	-webkit-animation-name: slide-2;
 	-moz-animation-name: slide-2;
 	-o-animation-name: slide-2;
-	animation-name: slide-2;
-	
+	animation-name: slide-2;	
 } 
 
 .prog-bar-3 {
@@ -725,8 +715,7 @@ font-weight: 600;
 	-webkit-animation-name: slide-3;
 	-moz-animation-name: slide-3;
 	-o-animation-name: slide-3;
-	animation-name: slide-3;
-	
+	animation-name: slide-3;	
 } 
 
  @-webkit-keyframes slide {
@@ -782,10 +771,184 @@ font-weight: 600;
 	90%  { width:  90%; }
 }
 
+.people-said{
+	padding-bottom: 100px;
+}
 
+.people-said ul{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
 
+.people-said li.p-s-1::before{	
+	content: url(../image/foto-people.png);
+	position: absolute;
+	top: -35px;
+	align-self: center; 	
+}
 
+.people-said li.p-s-2::before{	
+	content: url(../image/foto-people-2.png);
+	position: absolute;
+	top: -35px;
+	align-self: center; 	
+}
 
+.people-said li{
+	position: relative;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	-moz-flex-direction: column;
+	-ms-flex-direction: column;
+	-o-flex-direction: column;
+	flex-direction: column;
+	align-items: center;
+	-webkit-box-shadow: 0px 1px 21px 0px rgba(50, 50, 50, 0.63);
+-moz-box-shadow:    0px 1px 21px 0px rgba(50, 50, 50, 0.63);
+box-shadow:         0px 1px 21px 0px rgba(50, 50, 50, 0.63);
+		padding: 74px 50px;
+		margin-top: 60px;
+	
+}
+
+.people-said li p{
+	text-align: center;
+}
+
+.people-said li img{
+	padding: 20px 0;
+}
+
+.comment-name span{
+	font-weight: 800;
+}
+
+.people-span{
+	height: 6px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	
+	justify-content: center;
+	margin-bottom: 200px;
+}
+
+.people-span span{	
+	width: 20px;
+	margin-right: 20px;
+	background-color: #e0e0e0;
+	border-radius: 5px;
+}
+
+.people-span span:nth-of-type(1){
+background-color: #ff6e47;
+}
+
+.partners{
+	
+}
+
+.partners ul{
+	padding: 50px 0;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;	
+}
+
+.partners li{	
+	margin: 0px 30px;
+	padding-bottom: 10px;
+}
+
+.gray-footer{
+	background-color: #f7f7f7;
+}
+
+.footer{
+
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-items:center;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+
+.footer-but{
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+.footer-social{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+
+.footer-social a{
+	margin-right: 15px;
+	margin-bottom: 10px;
+	display: block;
+	width: 54px;
+	height: 52px;
+	background-image: url(../img/footer-social-t.png);
+}
+
+.footer-social a:hover{
+	-webkit-transition:all 0.5s linear;
+    -moz-transition:all 0.5s linear;
+    -o-transition:all 0.5s linear;
+    transition:all 0.5s linear;
+	background-image: url(../img/footer-social-t-hover.png);
+}
 
 
 
@@ -833,7 +996,6 @@ font-weight: 600;
 			-ms-flex-direction: row;
 			-o-flex-direction: row;
 			flex-direction: row;
-			//justify-content:center;
 			-webkit-flex-wrap: wrap;
 			-moz-flex-wrap: wrap;
 			-ms-flex-wrap: wrap;
