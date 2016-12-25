@@ -1,0 +1,944 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"ov",
+				"ovx\toverflow-x: ${1:hidden};"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"part",
+				"partner3.png\tw:135 h:27"
+			],
+			[
+				"par",
+				"partner3.png\tw:135 h:27"
+			],
+			[
+				"nth",
+				"nth-last-of-type\t pseudo selector"
+			],
+			[
+				"conte",
+				"content-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"df",
+				"d-f\tdisplay: flex;"
+			],
+			[
+				"p",
+				"foto-people.png\tw:66 h:69"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"but",
+				"but-work-proc"
+			],
+			[
+				"ml",
+				"ml-a\tmargin-left: auto;"
+			],
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"wor",
+				"work-li"
+			],
+			[
+				"f-w",
+				"fxw-w\tflex-wrap: wrap;"
+			],
+			[
+				"f-d",
+				"fxd-r\tflex-direction: row;"
+			],
+			[
+				"work",
+				"work-proc-img\t(index.html)"
+			],
+			[
+				"ba",
+				"baseline"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"cont",
+				"container-fluid\t(contact.html)"
+			],
+			[
+				"mr",
+				"mr-a\tmargin-right: auto;"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"form",
+				"form-name-top"
+			],
+			[
+				"col",
+				"col-xs-9\t(flexboxgrid.css)"
+			],
+			[
+				"so",
+				"solid\t(flexboxgrid.css)"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"pad-bo",
+				"pad-body-left\t(index.html)"
+			],
+			[
+				"fix",
+				"fixed-menu\t(style.css)"
+			],
+			[
+				"top",
+				"top-head\t(index.html)"
+			],
+			[
+				"bu",
+				"burg\t(index.html)"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"sta",
+				"statya-img"
+			],
+			[
+				"fw",
+				"fxw-w\tflex-wrap: wrap;"
+			],
+			[
+				"sub",
+				"sub-menu"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"col-xs",
+				"col-xs-6\t(flexboxgrid.css)"
+			],
+			[
+				"t-",
+				"t-menu-text\t(index.html)"
+			],
+			[
+				"u",
+				"u-t-menu"
+			],
+			[
+				"logo-",
+				"logo-img\t(index.html)"
+			],
+			[
+				"logo",
+				"logo-price-top.png\tw:90 h:20"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"footer",
+				"footer-col-2"
+			],
+			[
+				"dow",
+				"download-p\t(index.html)"
+			],
+			[
+				"rpe",
+				"repeat-x"
+			],
+			[
+				"be",
+				"before\t pseudo selector"
+			],
+			[
+				"foo",
+				"footer-li"
+			],
+			[
+				"td",
+				"td\ttext-decoration: ${1:none};"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"ho",
+				"hover\t pseudo selector"
+			],
+			[
+				"mi",
+				"middle-menu"
+			],
+			[
+				"midd",
+				"middle-menu"
+			],
+			[
+				"slid",
+				"slid-all\t(index.html)"
+			],
+			[
+				"slider",
+				"slider-h2"
+			],
+			[
+				"fs",
+				"ff-s\tfont-family: serif;"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"e",
+				"flex-end"
+			],
+			[
+				"fex",
+				"flex-grow"
+			],
+			[
+				"fons",
+				"font-style"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"br",
+				"br\tborder-right"
+			],
+			[
+				"b-",
+				"b-menu\t(index.html)"
+			],
+			[
+				"soc-",
+				"soc-f.png\tw:12 h:22"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"c-",
+				"c-bottom"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"las",
+				"last-child\t pseudo selector"
+			],
+			[
+				"kor",
+				"korabli"
+			],
+			[
+				"si",
+				"solid"
+			],
+			[
+				"img",
+				"image\t(index.html)"
+			],
+			[
+				"c-text",
+				"c-text-text"
+			],
+			[
+				"jusi",
+				"justify-content"
+			],
+			[
+				"sign",
+				"sign-in"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"sig",
+				"sign-in"
+			],
+			[
+				"a",
+				"article\t(index.html)"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"aro",
+				"space-around"
+			],
+			[
+				"ar",
+				"article\tTag"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"bgs",
+				"bgsz-cv\tbackground-size: cover;"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"HEA",
+				"HEADER\tTag"
+			],
+			[
+				"ma",
+				"meta\tTag"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"top-",
+				"top-phone"
+			],
+			[
+				"col-lg",
+				"col-lg-12\t(index.html)"
+			],
+			[
+				"colum",
+				"column"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"col-md",
+				"col-md-7\t(flexboxgrid.css)"
+			],
+			[
+				"hidden",
+				"hidden-menu"
+			],
+			[
+				"hidd",
+				"hidden-menu"
+			],
+			[
+				"hid",
+				"hidden-menu"
+			],
+			[
+				"col-",
+				"col-md-3"
+			],
+			[
+				"con-1",
+				"con-1-cena-text\t(index.html)"
+			],
+			[
+				"con-1-bu",
+				"con-1-buy-text"
+			],
+			[
+				"ko",
+				"korzina.png\t(index.html)"
+			],
+			[
+				"end",
+				"flex-end"
+			],
+			[
+				"bet",
+				"space-between"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"flr",
+				"flex-direction"
+			],
+			[
+				"en",
+				"end-sm\t(flexboxgrid.css)"
+			],
+			[
+				"mid",
+				"middle-md\t(flexboxgrid.css)"
+			],
+			[
+				"bo",
+				"bottom-gray"
+			],
+			[
+				"s",
+				"stretch"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"column",
+				"column-reverse"
+			],
+			[
+				"wrap",
+				"overflow-wrap"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"font\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				" autofilename",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Create new LiveReload plugin"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: L",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/#Projects/#1SCSS/style.haml",
+		"/D/#Projects/#SmartAgency/style/style.css",
+		"/D/#Projects/#SmartAgency/style/flexboxgrid.css",
+		"/D/#Projects/#SmartAgency/index.html",
+		"/D/#Projects/ALVI/contact.html",
+		"/D/#Projects/#Wapik/contact.html",
+		"/D/#Projects/#Wapik/about.html",
+		"/D/#Projects/ModernHouse_adapt/style/style.css",
+		"/D/#Projects/#1ШАГ/Бургер/161218/index.html",
+		"/D/#Projects/#1ШАГ/Бургер/161218/css/style.css",
+		"/D/#Projects/ModernHouse_adapt/index.html",
+		"/D/#Projects/ModernHouse_adapt/style/flexboxgrid.css",
+		"/D/#Projects/ModernHouse_adapt/statya.html",
+		"/D/#Projects/test_menu/style.css",
+		"/D/#Projects/test_menu/index.html",
+		"/D/#Projects/#ШАГ_домашка/paritelli/index.html",
+		"/D/#Projects/#ШАГ_домашка/paritelli/style/style.css",
+		"/D/#Projects/#ШАГ_домашка/16-12-2016/DZ-13/index.html",
+		"/D/#Projects/#ШАГ_домашка/16-12-2016/DZ-13/style/style.css",
+		"/D/#Projects/#ШАГ_домашка/16-12-2016/DZ-13/style/flexboxgrid.css",
+		"/D/#Projects/#ШАГ_домашка/17-12-2016/index.html",
+		"/D/#Projects/#ШАГ_домашка/17-12-2016/style/style.css",
+		"/D/#Projects/#ШАГ_домашка/17-12-2016/style/flexboxgrid.css",
+		"/D/#Projects/#ШАГ_домашка/15-12-2016/DZ-13/style/style.css",
+		"/D/#Projects/#ШАГ_домашка/15-12-2016/DZ-13/style/flexboxgrid.css",
+		"/D/#Projects/#ШАГ_домашка/15-12-2016/DZ-13/index.html",
+		"/D/#Projects/#ШАГ_домашка/paritelli/style/flexboxgrid.css",
+		"/D/#Projects/#Wapik/style/style.css",
+		"/D/ЗАГРУЗКИ/Noto_Sans/NotoSans-Bold.ttf",
+		"/D/ЗАГРУЗКИ/Noto_Sans/NotoSans-BoldItalic.ttf",
+		"/D/ЗАГРУЗКИ/Noto_Sans/NotoSans-Italic.ttf",
+		"/D/ЗАГРУЗКИ/Noto_Sans/NotoSans-Regular.ttf",
+		"/D/#Projects/#ШАГ_домашка/15-12-2016/DZ-13/style/index.html",
+		"/D/#Projects/#Wapik/style/flexboxgrid.css",
+		"/D/#Projects/12-12-2016/style/flexboxgrid.css",
+		"/D/#Projects/12-12-2016/index.html",
+		"/D/#Projects/12-12-2016/price.html",
+		"/D/#Projects/12-12-2016/style/style.css",
+		"/D/#Projects/business-last-version/business/index.html",
+		"/D/#Projects/10-12-2016/Cherry/index.html",
+		"/D/#Projects/10-12-2016/Cherry/style/style.css",
+		"/D/#Projects/10-12-2016/Cherry/style/flexboxgrid.css",
+		"/D/#Projects/#ШАГ_домашка/kudinov/style/style.css",
+		"/D/#Projects/#ШАГ_домашка/kudinov/index.html",
+		"/D/#Projects/Cherry/index.html",
+		"/D/#Projects/Cherry/style/flexboxgrid.css",
+		"/D/#Projects/Cherry/style/style.css",
+		"/D/#Projects/TankApp/index.html",
+		"/D/#Projects/TankApp/style/flexboxgrid.css",
+		"/D/#Projects/TankApp/style/style.css",
+		"/H/#Projects/#adaptivka_kudinov/index.html",
+		"/H/#Projects/#adaptivka_kudinov/style/flexboxgrid.css",
+		"/H/#Projects/#adaptivka_kudinov/style/style.css",
+		"/H/#dz-12-paritel-flexbox/index.html",
+		"/D/#Projects/#ШАГ_домашка/#adaptivka_kudinov/style/style.css",
+		"/D/#Projects/#ШАГ_домашка/#adaptivka_kudinov/style/flexboxgrid.css",
+		"/D/#Projects/#ШАГ_домашка/#adaptivka_kudinov/index.html",
+		"/D/#Projects/#ШАГ_домашка/#dz-12-paritel-flexbox/index.html",
+		"/D/#Projects/#ШАГ_домашка/#dz-12-paritel-flexbox/css/style.css",
+		"/D/#Projects/#ШАГ_домашка/#dz-11-shag-pariteli/style/style.css",
+		"/D/#ШАГ/ШАГ_СЕТКИ/adaptivka1/css/style-adapt.css",
+		"/D/#ШАГ/ШАГ_СЕТКИ/flax_frame/flexboxgrid.css",
+		"/D/#ШАГ/ШАГ_СЕТКИ/flax_frame/1.html",
+		"/D/#Projects/#ШАГ_домашка/#dz-12-paritel-flexbox/css/flexboxgrid.css",
+		"/D/#Projects/#ШАГ_домашка/#dz-11-shag-pariteli/index.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/css_style_completions.sublime-settings",
+		"/D/#ШАГ/ШАГ_СЕТКИ/adaptivka1/index.html",
+		"/D/#ШАГ/ШАГ_СЕТКИ/adaptivka1/css/style.css",
+		"/D/#ШАГ/ШАГ_СЕТКИ/adaptivka1/css/reset.css",
+		"/D/ЗАГРУЗКИ/111",
+		"/D/#Projects/28-11-2016/#dz-11-shag-pariteli/index.html",
+		"/D/#Projects/28-11-2016/#dz-11-shag-pariteli/style/style.css",
+		"/D/#Projects/28-11-2016/Kudinov_dz10/Kudinov_dz10/index.html",
+		"/D/#Projects/28-11-2016/Kudinov_dz10/Kudinov_dz10/gallery.html",
+		"/D/#Projects/28-11-2016/Kudinov_dz10/Kudinov_dz10/product.html",
+		"/D/#Projects/#ШАГ_домашка/25-11-2016/25-11-2016/#chertej-dz-10/contact.html",
+		"/D/#Projects/#ШАГ_домашка/25-11-2016/25-11-2016/#chertej-dz-10/sobitya.html",
+		"/D/#Projects/#ШАГ_домашка/25-11-2016/25-11-2016/#chertej-dz-10/document.html",
+		"/D/#Projects/#ШАГ_домашка/25-11-2016/25-11-2016/#chertej-dz-10/product.html",
+		"/D/#Projects/#ШАГ_домашка/25-11-2016/25-11-2016/#chertej-dz-10/gallery.html",
+		"/D/#Projects/#ШАГ_домашка/25-11-2016/25-11-2016/#chertej-dz-10/about.html",
+		"/D/#Projects/#ШАГ_домашка/25-11-2016/25-11-2016/#chertej-dz-10/index.html",
+		"/D/#Projects/#ШАГ_домашка/25-11-2016/25-11-2016/#chertej-dz-10/style/style.css",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Goto-CSS-Declaration/goto_css_declaration.sublime-settings",
+		"/D/#Projects/#ШАГ_домашка/ДЗ-10(verstka-saita)/index.html",
+		"/D/#Projects/#ШАГ_домашка/161116/index_v.html",
+		"/D/#Projects/#ШАГ_домашка/ДЗ-10(verstka-saita)/style/style.css",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/D/#Projects/#ШАГ_домашка/161116/style/style.css",
+		"/D/#Projects/#ШАГ_домашка/ДЗ-10(verstka-saita)/index",
+		"/D/#Projects/#shag_skelet_saita/index.html",
+		"/H/#Projects/barbarashop_index/index.html",
+		"/H/#Projects/barbarashop_index/style/style.css",
+		"/D/#Projects/#shag_skelet_saita/style/style.css",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Context.sublime-menu",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/AlignTab/AlignTab.sublime-settings",
+		"/D/#Projects/github/index.html",
+		"/D/#Projects/business-last-version/business/about.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/D/#Projects/business-last-version/business/style.css",
+		"/D/#Projects/business-last-version/business/portfolio.html",
+		"/D/ЗАГРУЗКИ/161116/style/style.css",
+		"/D/#Projects/#ШАГ_домашка/ДЗ_8/style.css",
+		"/D/#Projects/#ШАГ_домашка/ДЗ_8/index.html",
+		"/D/#Projects/business-last-version/business/services.html",
+		"/C/WINDOWS/Temp/Rar$DRa0.841/vertikalnoye-menu-1/menu-1.html",
+		"/C/WINDOWS/Temp/Rar$DRa0.841/vertikalnoye-menu-1/style-menu-1.css",
+		"/D/#Projects/business(4-11-2016)/business(4-11-2016)/business(4-11-2016)/business/style.css",
+		"/D/#Projects/business(4-11-2016)/business(4-11-2016)/business(4-11-2016)/business/index.html",
+		"/D/ЗАГРУЗКИ/161106/site1/style/style.css",
+		"/D/ЗАГРУЗКИ/161106/site1/index.html",
+		"/D/ЗАГРУЗКИ/161106/site/index.html",
+		"/D/#Projects/#ШАГ_домашка/ДЗ_8(верстка)/style/style.css",
+		"/D/#Projects/#ШАГ_домашка/ДЗ_8(верстка)/index.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/#Projects/#ШАГ_домашка/ДЗ_7(menu)/index.html",
+		"/D/#Projects/#ШАГ_домашка/ДЗ_7(menu)/style.css",
+		"/D/#Projects/business(4-11-2016)/business(4-11-2016)/business/style.css",
+		"/D/#Projects/business/index.html",
+		"/D/#Projects/business(4-11-2016)/business(4-11-2016)/business/index.html",
+		"/D/#Projects/business(4-11-2016)/business(4-11-2016)/business/about.html",
+		"/D/#Projects/business/style.css",
+		"/D/#Projects/business/js/slider.js",
+		"/D/ЗАГРУЗКИ/woocommerce-FlexSlider-2.6.3-0-g0690ec2/woocommerce-FlexSlider-0690ec2/flexslider.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"+",
+			"#f7f7f7",
+			"f7f7f7",
+			"nth",
+			"тер",
+			"outline",
+			"logo-640.png",
+			"button",
+			"select ",
+			"build",
+			"row",
+			"cols-md",
+			"outline",
+			"boo",
+			"slider-bootom",
+			"content",
+			"slider",
+			"left-menu",
+			".drop_vert_menu ",
+			"outline",
+			"ouyline",
+			"nav",
+			".top-menu",
+			"browse-sait",
+			"outline",
+			"main",
+			"desig",
+			"after",
+			"blue",
+			"col-md-12",
+			"body "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"//outline",
+			"col-md",
+			".left-menu",
+			"left-menu",
+			"",
+			".top-menu",
+			"#0000ff",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\#Projects\\github\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

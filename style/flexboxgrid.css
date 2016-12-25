@@ -5,6 +5,8 @@
   margin-right: auto;
   margin-left: auto;
   box-sizing:border-box;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 
@@ -14,8 +16,9 @@
 
 .container-fluid {
    //outline: 1px solid red;
-    padding-right: 10px;
-   padding-left: 10px;  
+   width: 100%;
+  padding-right: 10px;
+  padding-left: 10px;  
 
 }
 .row {
@@ -86,8 +89,8 @@
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  padding-right: 0.5rem;
-  padding-left: 0.5rem;
+ padding-right: 10px;
+  padding-left: 10px; 
 }
 
 .col-xs {
